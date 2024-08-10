@@ -76,12 +76,3 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awa-200&show_icons=true&locale=en&layout=compact" alt="awa-200" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=awa-200&show_icons=true&locale=en" alt="awa-200" />
-</p>
-
-**Repository Link:** [gasboyy2000](https://github.com/gasboyy2000/gasboyy2000.git)
